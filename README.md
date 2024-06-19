@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Basil T Alias</h1>
 <h2 align="center">Passionate Cloud and DevOps Enthusiast with hands-on experience in server administration, infrastructure management, and cloud computing.</h2>
 
+
 <img align="right" height="150" src="https://media.giphy.com/media/JTTAjM197sku8MgrRa/giphy.gif?cid=790b761141xd7evqbpibl38z32vuvngtnsj74k4bpf53ybpz&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
+
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
@@ -45,13 +47,9 @@
 
 ###
 
-<div align="left">
-  <a href="https://mail.google.com/mail/basiltaliaz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/basil-t-alias" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:basiltaliaz@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/basil-t-alias)
+
+
 
 ###
